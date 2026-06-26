@@ -1,0 +1,19 @@
+<resources>
+    <string-array name="modes">
+        <item>원본</item>
+        <item>흑백</item>
+        <item>블러</item>
+        <item>엣지</item>
+        <item>엣지 오버레이</item>
+        <item>스케치</item>
+        <item>도형 검출</item>
+        <item>문서 스캔</item>
+        <item>실시간 번역</item>
+    </string-array>
+
+    <string-array name="resolutions">
+        <item>640×480 (빠름)</item>
+        <item>1280×720</item>
+        <item>1920×1080 (고화질)</item>
+    </string-array>
+</resources>
